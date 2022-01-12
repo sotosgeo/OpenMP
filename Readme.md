@@ -1,6 +1,7 @@
 An attempt at learning OpenMP while coding something
 
 Examples -> Code examples done in class
+
 Assignment -> Applying it to a problem to solve in parallel
 
     Decided its going to be the Monte Carlo approach to calculating the value of pi.
